@@ -14,3 +14,5 @@ If the RSSI is less than -75, then we can usually say that the beacon is outside
 Please note that, the sniffer refreshes itself every 15-30 seconds (shown by "Scanning" on the screen).
 
 Thanks!
+
+**btw, updates will come soon, watch this repo to be the first to find latest updates**
