@@ -21,3 +21,6 @@ with urllib.request.urlopen(req) as resp:
         print('Beacon detected, yet signal is too low to continue.')
     else:
       print('No beacons available. Try again later, or move your device.')
+
+    
+    
