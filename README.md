@@ -1,9 +1,9 @@
 # BeaconGrab
 
-BeaconGrab is the beacon grabbing system which allows you to view any pre-configured Pointr beacons with your Sniffer device.
+BeaconGrab is the beacon grabbing system which allows you to view any pre-configured iBeacons with your Sniffer device. It also includes BeaconSet, the system which lets you add iBeacons to the Sniffer.
 
 ## Usage:
-Install Python >= 3.4.0, ngrok, then download main.py
+Install ngrok, then download the binaries you want
 Use ngrok to create an IP tunnel which points to the sniffer's IP address - **Make sure it doesn't go to the API itself**.
 From there, you will be asked for the tunnel link.
 After that, run the file locally and take a look at the UUID, major, and minor. 
